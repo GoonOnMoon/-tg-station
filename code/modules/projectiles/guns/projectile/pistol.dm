@@ -1,15 +1,3 @@
-/obj/item/weapon/gun/projectile/automatic/pistal
-	name = "syndicate pistal"
-	desc = "A small, easily concealable 10mm handgun. Has a threaded barrel for suppressors."
-	icon_state = "pistol"
-	w_class = 2
-	origin_tech = "combat=2;materials=2;syndicate=2"
-	mag_type = /obj/item/ammo_box/magazine/m10mm
-	can_suppress = 1
-	burst_size = 1
-	fire_delay = 0
-	action_button_name = null
-
 /obj/item/weapon/gun/projectile/automatic/pistol
 	name = "syndicate pistol"
 	desc = "A small, easily concealable 10mm handgun. Has a threaded barrel for suppressors."
